@@ -1,0 +1,13 @@
+#img-div div {
+  display: flex;
+  justify-content: center;
+}
+
+#image {
+  width: 50%;
+  position: center;
+  display: block;
+  max-width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+}
